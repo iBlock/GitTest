@@ -1,2 +1,2 @@
 Git is a version control system.
-Git is free software.
+添加一行中文的测试数据。
